@@ -1,11 +1,21 @@
-# TEZ DEX
+# react-tezos-template
 
-## Some Deployed Contracts
-**🐱 CAT TOKEN**
-KT1HrjGaoTmdZ8Znbup6bgV2gEpFF8tt9jo5
+Live Demo: https://scaffold-tez.vercel.app/
 
-**LP Token**
-KT1AEd7ZCSdpZhNNnEwZU9sNFSkib2s7e61f
+## Setup
+Clone and install dependencies
+```bash
+git clone https://github.com/vivekascoder/react-tezos-template
+```
 
-**DEX Address**
-KT1FFoWsyFH7rJGxogvPRRuu8MwskY6Asags
+Install dependencies
+```bash
+cd react-tezos-template
+yarn install
+```
+
+
+## How to run the project
+```bash
+yarn start
+```
